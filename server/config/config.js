@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //=====================
 //Puerto
 //=====================
@@ -36,3 +37,10 @@ if (process.env.NODE_ENV === 'dev') {
 }
 
 process.env.URLDB = urlDB;
+=======
+//==========
+//Puerto
+//==========
+
+process.env.PORT = process.env.PORT || 3000;
+>>>>>>> e2ba04df9c91ad770ad6419789d09e57e0ac362f

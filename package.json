@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "07.restserver",
     "version": "1.0.0",
     "description": "",
@@ -19,4 +20,19 @@
         "nodemon": "^1.18.6",
         "underscore": "^1.9.1"
     }
+=======
+  "name": "07-restserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+>>>>>>> e2ba04df9c91ad770ad6419789d09e57e0ac362f
 }
